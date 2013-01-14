@@ -1,0 +1,4 @@
+*.pem
+*.pfx
+*.cer
+keys.yaml
