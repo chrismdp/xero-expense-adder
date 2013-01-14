@@ -9,7 +9,7 @@ To use create a yaml file with the following in it:
     ---
     key: <your xero key>
     secret: <your xero secret>
-    contact: <your contact - used for the name on the AP invoice>
+    contact: <Contact ID for the expense payee - used for the name on the AP invoice>
 
 You will also need your certificates in the same folder - see the Xero developer pages for more details.
 
