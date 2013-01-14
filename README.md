@@ -11,6 +11,8 @@ To use create a yaml file with the following in it:
     secret: <your xero secret>
     contact: <your contact - used for the name on the AP invoice>
 
+You will also need your certificates in the same folder - see the Xero developer pages for more details.
+
 Then type:
 
     $ ruby expenseadder.rb path/to/folder/with/expenses
